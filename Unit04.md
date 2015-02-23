@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL402: The Poetry of John Milton"
+course_description: "A detailed introduction to John Milton’s life, literary works, historical and philosophical contexts, including close examinations of his poetry, including Samson Agonists, Lycidas, Paradise Lost, and Paradise Regained."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: *Paradise Regained*** <span id="4"></span> 
 *In this unit, we will explore one of Milton’s very last works, his
 brief epic* Paradise Regained*, which tells the story of Jesus’

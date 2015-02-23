@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL402: The Poetry of John Milton"
+course_description: "A detailed introduction to John Milton’s life, literary works, historical and philosophical contexts, including close examinations of his poetry, including Samson Agonists, Lycidas, Paradise Lost, and Paradise Regained."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: *Paradise Lost*** <span id="3"></span> 
 *We will now turn to Milton’s most famous work, his epic poem* Paradise
 Lost*. The poem addresses the human condition - man’s Fall from grace

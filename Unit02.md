@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL402: The Poetry of John Milton"
+course_description: "A detailed introduction to John Milton’s life, literary works, historical and philosophical contexts, including close examinations of his poetry, including Samson Agonists, Lycidas, Paradise Lost, and Paradise Regained."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Milton’s Short Poetry** <span id="2"></span> 
 *Though best known for his epic poetry, Milton was a talented lyric poet
 in his own right. He consciously opted to begin his career as a lyrical

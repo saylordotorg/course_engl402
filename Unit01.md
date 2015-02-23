@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL402: The Poetry of John Milton"
+course_description: "A detailed introduction to John Milton’s life, literary works, historical and philosophical contexts, including close examinations of his poetry, including Samson Agonists, Lycidas, Paradise Lost, and Paradise Regained."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Life and Times of John Milton** <span id="1"></span> 
 *John Milton lived in a period of great religious turmoil, intellectual
 and artistic exploration, and political change. He witnessed a series of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL402: The Poetry of John Milton"
+course_description: "A detailed introduction to John Milton’s life, literary works, historical and philosophical contexts, including close examinations of his poetry, including Samson Agonists, Lycidas, Paradise Lost, and Paradise Regained."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: *Samson Agonistes*** <span id="5"></span> 
 I*n this final unit, we will explore another one of Milton’s very last
 works, the drama, Samson Agonistes that begins after Samson’s blindness

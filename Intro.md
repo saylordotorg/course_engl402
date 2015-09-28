@@ -126,3 +126,4 @@ Tuesday night; etc.
 - [Unit 3](https://legacy.saylor.org/engl402/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl402/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl402/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL402/ENGL402-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL402/ENGL402-FinalExam-Answers.html)

@@ -64,7 +64,7 @@ to Milton’s Life** <span id="5.1"></span> 
 
 -   **Reading: The Saylor Foundation: “Milton’s Samson”**
     Link: The Saylor Foundation: [“Milton’s
-    Samson”](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL402-OC-5.1-Miltons-Samson-FINAL.pdf)
+    Samson”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-5.1-Miltons-Samson-FINAL.pdf)
     (PDF)  
       
      Instructions: Read the linked page.  
@@ -95,7 +95,7 @@ id="5.2"></span> 
 
 -   **Reading: The Saylor Foundation: “Milton’s *Samson Agonistes*”**
     Link: The Saylor Foundation: [“Milton’s *Samson
-    Agonistes*”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Samson-Agonistes.pdf) (PDF)  
+    Agonistes*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Samson-Agonistes.pdf) (PDF)  
         
      Instructions: Read the linked file.  
         

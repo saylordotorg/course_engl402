@@ -90,7 +90,7 @@ Restoration of the Monarchy** <span id="1.1.2"></span> 
 id="1.1.3"></span> 
 -   **Reading: VictorianWeb: “Neoclassicism: An Introduction”**
     Link: VictorianWeb: [“Neoclassicism: An
-    Introduction”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf) (PDF)  
+    Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://www.victorianweb.org/previctorian/nc/ncintro.html)  
@@ -122,7 +122,7 @@ id="1.1.3"></span> 
 **1.1.4 The Renaissance’s Legacy** <span id="1.1.4"></span> 
 -   **Reading: VictorianWeb: “Neoclassicism: An Introduction”**
     Link: VictorianWeb: [“Neoclassicism: An
-    Introduction”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf) (PDF)  
+    Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Neoclassicism-an-Introduction.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://www.victorianweb.org/previctorian/nc/ncintro.html)  
@@ -207,7 +207,7 @@ id="1.1.3"></span> 
 Humanities and Languages** <span id="1.2.1"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s Education”**
     Link: The Saylor Foundation: [“Milton’s
-    Education”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton%E2%80%99s-Blindness.pdf)
+    Education”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton%E2%80%99s-Blindness.pdf)
     (PDF)  
       
      Instructions: Read this brief text for a background on Milton’s
@@ -240,7 +240,7 @@ id="1.2.2"></span> 
 id="1.2.3"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Of Reformation*”**
     Link: The Saylor Foundation: Milton’s [“*Of
-    Reformation*”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Of-Reformation-Touching-Church-Discipline-in-England.pdf) (PDF)  
+    Reformation*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Of-Reformation-Touching-Church-Discipline-in-England.pdf) (PDF)  
       
      Also available in: [  
      HTML](http://www.brysons.net/miltonweb/ofreformation.html)  
@@ -263,7 +263,7 @@ id="1.2.4"></span> 
     Discipline and Divorce*”**
     Link: The Saylor Foundation: Milton’s [“*The Doctrine and Discipline
     of
-    Divorce”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-MILTON-The-Doctrine-Discipline-of-Divorce.pdf) (PDF)  
+    Divorce”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-MILTON-The-Doctrine-Discipline-of-Divorce.pdf) (PDF)  
       
      Also available in:  
 
@@ -307,7 +307,7 @@ id="1.2.4"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “Sonnet XXII”**
     Link: The Saylor Foundation: Milton’s [“Sonnet
-    XXII”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-22.pdf) (PDF)   
+    XXII”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-22.pdf) (PDF)   
       
      Also available in:  
 
@@ -336,7 +336,7 @@ id="1.2.4"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost* 3.22 -
     55”**
     Link: The Saylor Foundation: Milton’s [“*Paradise Lost *3.22 -
-    55](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf) (HTML)  
+    55](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf) (HTML)  
       
      Also available in:[  
 
@@ -382,7 +382,7 @@ id="1.2.4"></span> 
 
 -   **Reading: The Saylor Foundation: “Milton’s Blindness”**
     Link: The Saylor Foundation: [“Milton’s
-    Blindness](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Blindness.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Blindness.pdf)
+    Blindness](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Blindness.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Blindness.pdf)
     (PDF)  
       
      Instructions: Read this brief reading for a background on Milton’s
@@ -410,7 +410,7 @@ id="1.2.4"></span> 
     Milton’s Universe”**
     Link: The Saylor Foundation: University of California Santa Barbara
     English Department Knowledge Base Wiki’s [“A Diagram of Milton’s
-    Universe](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-A-Diagram-of-Milton%E2%80%99s-Universe.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-A-Diagram-of-Milton%E2%80%99s-Universe.pdf) (PDF)  
+    Universe](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-A-Diagram-of-Milton%E2%80%99s-Universe.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-A-Diagram-of-Milton%E2%80%99s-Universe.pdf) (PDF)  
       
      Also available in:  
 
@@ -468,7 +468,7 @@ id="1.3.3"></span> 
     to Establish a Free Commonwealth*”**
     Link: The Saylor Foundation: Milton’s [“*The Ready and Easy Way to
     Establish a Free
-    Commonwealth”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-MILTON-THE-READY-AND-EASY-WAY-TO-ESTABLISH-A-FREE-COMMONWEALTH.pdf) (PDF)  
+    Commonwealth”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-MILTON-THE-READY-AND-EASY-WAY-TO-ESTABLISH-A-FREE-COMMONWEALTH.pdf) (PDF)  
       
      Also available in:   
 
@@ -505,7 +505,7 @@ Salvation** <span id="1.3.4"></span> 
     “Milton’s Theology”**
     Link: UC Santa Barbara English Department Knowledge Base Wiki’s
     [“Milton’s
-    Theology”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Theology.pdf) (PDF)  
+    Theology”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton%D5s-Theology.pdf) (PDF)  
       
      Also available in:  
      [HTML](http://wiki.english.ucsb.edu/index.php/Milton%27s_Theology)  
@@ -543,7 +543,7 @@ id="1.3.5"></span> 
 -   **Reading: The Saylor Foundation: “Milton and the Role of the
     Poet”**
     Link: The Saylor Foundation: [“Milton and the Role of the
-    Poet](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-and-the-Role-of-the-Poet.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-and-the-Role-of-the-Poet.pdf)
+    Poet](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-and-the-Role-of-the-Poet.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-and-the-Role-of-the-Poet.pdf)
     (PDF)  
       
      Instructions: Read the paragraph linked above.  
@@ -579,7 +579,7 @@ id="1.3.5"></span> 
     Link: The Saylor Foundation: *The Cambridge History of English and
     American Literature*: [“Vol. VII: Cavalier and Puritan - Milton’s
     Literary
-    Form”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-Milton%D5s-Literary-Form..pdf) (PDF)  
+    Form”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-Milton%D5s-Literary-Form..pdf) (PDF)  
       
      Also available in:   
      [HTML](http://www.bartleby.com/217/0521.html)  
@@ -600,7 +600,7 @@ id="1.3.5"></span> 
 id="1.4.1"></span> 
 -   **Reading: The Saylor Foundation: “Milton the Lyrical Poet”**
     Link: The Saylor Foundation: [“Milton the Lyrical
-    Poet](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-the-Lyrical-Poet.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-the-Lyrical-Poet.pdf)
+    Poet](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-the-Lyrical-Poet.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-the-Lyrical-Poet.pdf)
     (PDF)  
       
      Instructions: Read this page linked above.  
@@ -636,7 +636,7 @@ id="1.4.1"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “Comus”**
     Link: The Saylor Foundation: Milton’s
-    [“Comus”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Comus.pdf) (PDF)  
+    [“Comus”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Comus.pdf) (PDF)  
       
      Also available in:  
 
@@ -666,7 +666,7 @@ id="1.4.1"></span> 
     Drama*, 1558 - 1642: “XV: The English Masque”**
     Link: The Saylor Foundation: Felix Schelling’s *Elizabethan Drama,*
     1558 - 1642: [“XV: The English
-    Masque”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-The-English-Masque.pdf) (PDF)  
+    Masque”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-The-English-Masque.pdf) (PDF)  
       
      Also available in:   
      [HTML](http://www.luminarium.org/renlit/schellingmasque.htm)  
@@ -686,7 +686,7 @@ id="1.4.1"></span> 
 <span id="1.4.3"></span> 
 -   **Reading: The Saylor Foundation’s “Milton, Epic Poet”**
      Link: The Saylor Foundation’s [“Milton, Epic
-    Poet](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-the-Epic-Poet.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-the-Epic-Poet.pdf)
+    Poet](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-the-Epic-Poet.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-the-Epic-Poet.pdf)
     (PDF)  
         
      Instructions: Read this linked paragraph for a sense of Milton’s
@@ -722,7 +722,7 @@ id="1.4.1"></span> 
 
 -   **Reading: The Saylor Foundation: “Milton and Rhetoric”**
     Link: The Saylor Foundation: [“Milton and
-    Rhetoric”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Polemical-Prose.pdf) (PDF)  
+    Rhetoric”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Polemical-Prose.pdf) (PDF)  
       
      Instructions: Read this linked paragraph to learn about Milton’s
     polemical prose.  
@@ -736,7 +736,7 @@ id="1.4.1"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “*Areopagitica*”**
     Link: The Saylor Foundation: Milton’s
-    [*“Areopagitica”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Aeropagitica.pdf) (PDF)  
+    [*“Areopagitica”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Aeropagitica.pdf) (PDF)  
       
      Also available in:   
 

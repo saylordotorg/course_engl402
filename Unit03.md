@@ -39,7 +39,7 @@ Upon successful completion of this unit, you will be able to:
     Department Knowledge Base’s “Surviving Milton”**
     Link: The Saylor Foundation: UC-Santa Barbara’s English Department
     Knowledge Base’s [“Surviving
-    Milton”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Surviving-Milton.pdf) (PDF)  
+    Milton”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Surviving-Milton.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://wiki.english.ucsb.edu/index.php/Surviving_Milton)  
@@ -107,7 +107,7 @@ from Grace** <span id="3.1.1"></span> 
     “Genesis 1:1 - 3:22”**
     Link: The Saylor Foundation: The *World English Bible (WEB)*
     [“Genesis 1:1 -
-    3:22”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Genesis-1-1-%D0-3-22.pdf) (PDF)  
+    3:22”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Genesis-1-1-%D0-3-22.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://www.gutenberg.org/dirs/etext05/web0110h.htm)  
@@ -129,7 +129,7 @@ from Grace** <span id="3.1.1"></span> 
     Adaptation of Its Conventions”**
     Link: The Saylor Foundation: [“The Homeric Epic and Milton’s
     Adaptation of Its
-    Conventions”](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL402-OC-3.1.2-The-Homeric-Epic-and-Miltons-Adaptation-of-Its-Conventions-FINAL.pdf) (PDF)  
+    Conventions”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-3.1.2-The-Homeric-Epic-and-Miltons-Adaptation-of-Its-Conventions-FINAL.pdf) (PDF)  
       
      Instructions: Read this linked page about how Milton adopted and
     adapted conventions of the Classical Epic.  
@@ -144,7 +144,7 @@ from Grace** <span id="3.1.1"></span> 
 **3.1.3 Milton’s Satan** <span id="3.1.3"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s Satan”**
     Link: The Saylor Foundation: [“Milton’s
-    Satan"](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL402-OC-3.1.3-Miltons-Satan-FINAL.pdf)
+    Satan"](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-3.1.3-Miltons-Satan-FINAL.pdf)
     (PDF)  
       
      Instructions: Read this linked page about how Milton depicted his
@@ -163,7 +163,7 @@ id="3.1.4"></span> 
     *Paradise Lost*”**
     Link: The Saylor Foundation: [“*Faeire Queene’*s Influence on
     *Paradise
-    Lost*”](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL402-OC-3.1.4-Fairie-Queens-Influence-on-Paradise-Lost-FINAL.pdf) (PDF)   
+    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-3.1.4-Fairie-Queens-Influence-on-Paradise-Lost-FINAL.pdf) (PDF)   
         
      Instructions: Read the linked page about the ways Edmund Spenser
     influenced Milton.  
@@ -247,7 +247,7 @@ id="3.2.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     I”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost*, Book
-    I”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-1.pdf) (PDF)  
+    I”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-1.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://www.dartmouth.edu/~milton/reading_room/pl/book_1/)  
@@ -293,7 +293,7 @@ id="3.2.1"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton’s *Paradise
-    Lost*”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in: [  
@@ -313,7 +313,7 @@ id="3.2.2"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     II”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost.* Book
-    II”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-2.pdf) (PDF)  
+    II”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-2.pdf) (PDF)  
       
      Also available in: [  
 
@@ -359,7 +359,7 @@ id="3.2.2"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton’s *Paradise
-    Lost*”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in: [  
@@ -378,7 +378,7 @@ id="3.2.2"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “Paradise Lost, Book
     III”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost,* Book
-    III”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf) (PDF)  
+    III”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-3.pdf) (PDF)  
       
      Also available in:[  
 
@@ -403,7 +403,7 @@ Relations** <span id="3.2.4"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s *Paradise Lost*, Book
     IV”**
     Link: The Saylor Foundation: [“Milton’s *Paradise Lost*, Book
-    IV”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-4.pdf)  
+    IV”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-4.pdf)  
       
      All books also available in:[  
 
@@ -426,7 +426,7 @@ Relations** <span id="3.2.4"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     V”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost,* Book
-    V”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-5.pdf) (PDF)  
+    V”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-5.pdf) (PDF)  
       
      All books also available in: [  
 
@@ -449,7 +449,7 @@ Relations** <span id="3.2.4"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     VI”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost,* Book
-    VI”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-6.pdf) (PDF)  
+    VI”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-6.pdf) (PDF)  
       
      All Books Also available in:  
 
@@ -517,7 +517,7 @@ Relations** <span id="3.2.4"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton’s *Paradise
-    Lost*”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in: [  
@@ -537,7 +537,7 @@ Story** <span id="3.2.5"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     VII”**
     Link: The Saylor Foundation: Milton’s [“*Paradise Lost*, Book
-    VII”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-7.pdf) (PDF)  
+    VII”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-7.pdf) (PDF)  
       
      Both books available in: [  
 
@@ -560,7 +560,7 @@ Story** <span id="3.2.5"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     VIII”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost,* Book
-    VIII”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-8.pdf) (HTML)  
+    VIII”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-8.pdf) (HTML)  
       
      Also available in: [  
 
@@ -607,7 +607,7 @@ id="3.2.6"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     IX”**
     Link: The Saylor Foundation: Milton’s [“*Paradise Lost*, Book
-    IX”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-9.pdf) (PDF)  
+    IX”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-9.pdf) (PDF)  
       
      Also available in:[  
 
@@ -630,7 +630,7 @@ id="3.2.6"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     X”**
     Link: The Saylor Foundation: Milton’s [“*Paradise Lost*, Book
-    X”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-10.pdf) (PDF)  
+    X”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-10.pdf) (PDF)  
       
      Also available in:[  
 
@@ -698,7 +698,7 @@ id="3.2.7"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     XI”**
     Link: The Saylor Foundation: Milton’s [“*Paradise Lost*, Book
-    XI”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-11.pdf) (PDF)   
+    XI”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-11.pdf) (PDF)   
       
      Also available in:  
 
@@ -721,7 +721,7 @@ id="3.2.7"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Paradise Lost*, Book
     XII”**
     Link: The Saylor Foundation: Milton’s [*“Paradise Lost,* Book
-    XII”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-12.pdf) (PDF)  
+    XII”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Paradise-Lost-Book-12.pdf) (PDF)  
       
      Also available in:  
 
@@ -813,7 +813,7 @@ id="3.3.2"></span> 
     *Paradise Lost*”**
     Link: The Saylor Foundation: [“‘Answerable Style’: The Genre of
     *Paradise
-    Lost”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-_Answerable-Style_-The-Genre-of-Paradise-Lost.pdf) (PDF)  
+    Lost”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-_Answerable-Style_-The-Genre-of-Paradise-Lost.pdf) (PDF)  
       
      Also available in: [  
 
@@ -839,7 +839,7 @@ id="3.3.2"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton's *Paradise
-    Lost”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in:[  
@@ -860,7 +860,7 @@ id="3.3.3"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton’s *Paradise
-    Lost”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in:[  
@@ -917,10 +917,10 @@ id="3.3.3"></span> 
     and *The Cambridge History of English and American Literature, Vol.
     VII*: Cavalier and Puritan, “Milton’s Versification and Style”**
     Link: The Saylor Foundation: Lee Jacobus' [“Milton’s
-    Rhetoric"](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Milton-Miltons-Rhetoric-Examples-of-Miltons-Use-of-Classical-Schemes-and-Tropes.pdf) (PDF)
+    Rhetoric"](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Miltons-Rhetoric-Examples-of-Miltons-Use-of-Classical-Schemes-and-Tropes.pdf) (PDF)
     and *The Cambridge History of English and American Literature, Vol.
     VII:* Cavalier and Puritan, [“Milton’s Versification and
-    Style”](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-His-versification-and-style.pdf) (PDF)  
+    Style”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-His-versification-and-style.pdf) (PDF)  
       
      Also available in: [  
 
@@ -951,7 +951,7 @@ id="3.3.3"></span> 
     Transcription**
     Link: The Saylor Foundation: Malaspina University College Professor
     Ian Johnston’s [“Lecture on Milton’s *Paradise
-    Lost”*](http://www.saylor.org/site/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
+    Lost”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Ian-Johnston-Lecture-on-Milton.pdf) Transcription
     (PDF)  
       
      Also available in:[  

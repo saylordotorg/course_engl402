@@ -66,7 +66,7 @@ Upon successful completion of this unit, you will be able to
 -   **Reading: The Saylor Foundation: “Milton’s Exposure to Poetry as a
     Student”**
     Link: The Saylor Foundation: [“Milton's Exposure to Poetry as a
-    Student](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Exposure-to-Poetry-as-a-Student.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Exposure-to-Poetry-as-a-Student.pdf)
+    Student](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Exposure-to-Poetry-as-a-Student.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Exposure-to-Poetry-as-a-Student.pdf)
     (PDF)  
       
      Instructions: Read the linked text.  
@@ -83,7 +83,7 @@ id="2.1.2"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s Rejection of Cavalier
     Poetry”**
     Link: The Saylor Foundation: [“Milton’s Rejection of Cavalier
-    Poetry](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Rejection-of-Cavalier-Poetry.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Rejection-of-Cavalier-Poetry.pdf)
+    Poetry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Rejection-of-Cavalier-Poetry.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Rejection-of-Cavalier-Poetry.pdf)
     (PDF)  
         
      Instructions: Read the linked paragraph.  
@@ -99,7 +99,7 @@ id="2.1.2"></span> 
     that she would dishevel her haire”**
     Link: The Saylor Foundation: Richard Lovelace’s [“To Amarantha, that
     she would dishevel her
-    haire”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Song-Richard-Lovelace.pdf) (PDF)  
+    haire”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Song-Richard-Lovelace.pdf) (PDF)  
         
      Instructions: Read Lovelace’s cavalier poem, attempting to view it
     from Milton’s perspective. Keep in mind his opinions on the
@@ -150,7 +150,7 @@ id="2.1.3"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “*L’Allegro*”**
     Link: The Saylor Foundation: Milton’s
-    *[“L’Allegro”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-lallegro.pdf)* (PDF)  
+    *[“L’Allegro”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-lallegro.pdf)* (PDF)  
       
      Also available in: [  
 
@@ -177,7 +177,7 @@ id="2.1.3"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “*Il Penseroso*”**
     Link: The Saylor Foundation: Milton’s [“*Il
-    Penseroso*”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Il-Penseroso.pdf) (PDF)  
+    Penseroso*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Il-Penseroso.pdf) (PDF)  
       
      Also available in: [  
 
@@ -226,7 +226,7 @@ id="2.1.3"></span> 
     Admirable Dramatic Poet, W. Shakespeare”**
     Link: The Saylor Foundation: Milton’s [“An Epitaph on the Admirable
     Dramatic Poet, W.
-    Shakespeare”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-An-Epitaph-on-the-Admirable-Dramatic-Poet-W.-Shakespeare.pdf) (PDF)  
+    Shakespeare”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-An-Epitaph-on-the-Admirable-Dramatic-Poet-W.-Shakespeare.pdf) (PDF)  
       
      Also available in:  
      [HTML](http://www.online-literature.com/milton/552/); [eText format
@@ -251,7 +251,7 @@ Work** <span id="2.1.5"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “*Ad Patrem*” (“To His
     Father”)**
     Link: The Saylor Foundation: Milton’s [“*Ad
-    Patrem*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Ad-patrem.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Ad-patrem.pdf)
+    Patrem*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Ad-patrem.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Ad-patrem.pdf)
     (“To His Father”) (PDF)  
       
      Also available in: [  
@@ -316,7 +316,7 @@ Work** <span id="2.1.5"></span> 
 
 -   **Reading: The Saylor Foundation: “Pastoral Elegy”**
     Link: The Saylor Foundation: [“Pastoral
-    Elegy](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Pastoral-Elegy.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Pastoral-Elegy.pdf)
+    Elegy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Pastoral-Elegy.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Pastoral-Elegy.pdf)
     (PDF)  
       
      Instructions: Read this brief definition of the *pastoral elegy* as
@@ -347,7 +347,7 @@ Work** <span id="2.1.5"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “Lycidas”**
     Link: The Saylor Foundation: Milton’s
-    [“Lycidas”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Lycidas.pdf) (PDF)  
+    [“Lycidas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Lycidas.pdf) (PDF)  
       
      Also available in: [  
 
@@ -382,7 +382,7 @@ Work** <span id="2.1.5"></span> 
 -   **Reading: The Saylor Foundation: “The Tradition of the Pastoral
     Elegy”**
     Link: The Saylor Foundation: [“The Tradition of the Pastoral
-    Elegy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-The-Tradition-of-the-Pastoral-Elegy.pdf) (PDF)  
+    Elegy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-The-Tradition-of-the-Pastoral-Elegy.pdf) (PDF)  
       
      Instructions: Read this linked paragraph to learn about Milton’s
     use of the pastoral elegy form.  
@@ -398,7 +398,7 @@ Work** <span id="2.1.5"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s Variation on the
     Elegy”**
     Link: The Saylor Foundation: [“Milton’s Variation on the
-    Elegy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Variation-on-the-Pastoral-Elegy.pdf) (PDF)  
+    Elegy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Variation-on-the-Pastoral-Elegy.pdf) (PDF)  
       
      Instructions: Read this linked paragraph to learn about how Milton
     adapted the elegiac form to his own needs.  
@@ -451,7 +451,7 @@ id="2.2.4"></span> 
 **2.2.5 Classical Influences** <span id="2.2.5"></span> 
 -   **Reading: The Saylor Foundation: Virgil’s “Eclogue X”**
     Link: The Saylor Foundation: Virgil’s [“Eclogue
-    X”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Virgil-The-Eclogues.pdf) (PDF)  
+    X”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Virgil-The-Eclogues.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://classics.mit.edu/Virgil/eclogue.10.x.html)  
@@ -470,7 +470,7 @@ Truths*** <span id="2.2.6"></span> 
 -   **Reading: The Saylor Foundation: Samuel Johnson’s “The Life of
     Milton”**
     Link: The Saylor Foundation: Samuel Johnson’s [“The Life of
-    Milton”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-The-Life-of-Milton.pdf) (PDF)  
+    Milton”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-The-Life-of-Milton.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://andromeda.rutgers.edu/~jlynch/Texts/milton.html)  
@@ -564,7 +564,7 @@ id="2.3.1"></span> 
 **2.3.2 Revitalizing a Dying Tradition** <span id="2.3.2"></span> 
 -   **Reading: The Saylor Foundation: “Revitalizing a Dying Tradition”**
     Link: The Saylor Foundation: [“Revitalizing a Dying
-    Tradition”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Revitalizing-a-Dying-Tradition.pdf) (PDF)  
+    Tradition”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Revitalizing-a-Dying-Tradition.pdf) (PDF)  
       
      Instructions: Read this linked paragraph about Milton and the
     tradition of the sonnet.  
@@ -598,7 +598,7 @@ id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “How Soon Hath Time”
     (Sonnet 7)**
     Link: The Saylor Foundation: Milton’s [“How Soon Hath Time” (Sonnet
-    7)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-7.pdf)  
+    7)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-7.pdf)  
       
      Also available in:  
 
@@ -628,7 +628,7 @@ id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “Captain or Colonel”
     (Sonnet 8)**
     Link: The Saylor Foundation: Milton’s [“Captain or Colonel” (Sonnet
-    8)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-8.pdf),
+    8)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-8.pdf),
     (PDF)  
       
      Also available in: [  
@@ -659,7 +659,7 @@ id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “Avenge O Lord” (Sonnet
     18)**
     Link: The Saylor Foundation: Milton’s [“Avenge O Lord” (Sonnet
-    18)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-18.pdf) (PDF)   
+    18)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-18.pdf) (PDF)   
       
      Also available in: [  
 
@@ -689,7 +689,7 @@ id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “When I Consider” (Sonnet
     19)**
     Link: The Saylor Foundation: Milton’s [“When I Consider” (Sonnet
-    19)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-19.pdf) (PDF)  
+    19)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-19.pdf) (PDF)  
       
      Also available in:[  
 
@@ -719,7 +719,7 @@ id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “Methought I Saw” (Sonnet
     23)**
     Link: The Saylor Foundation: Milton’s [“Methought I Saw” (Sonnet
-    23)](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-23.pdf) (PDF)  
+    23)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-Sonnet-23.pdf) (PDF)  
       
      Also available in: [  
 
@@ -777,7 +777,7 @@ id="2.4.2"></span> 
     Lib. 1”**
     Link: The Saylor Foundation: Milton’s [“The Fifth Ode of Horace,
     Lib.
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-The-Fifth-Ode-of-Horace.-Lib.-I.pdf) (PDF)  
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-The-Fifth-Ode-of-Horace.-Lib.-I.pdf) (PDF)  
       
      Also available in:[  
 
@@ -803,7 +803,7 @@ id="2.4.2"></span> 
     “Introduction to *On the Morning of Christ’s Nativity*”**
     Link: The Saylor Foundation: Alison Moe and Thomas H. Luxon’s
     [“Introduction to *On the Morning of Christ's
-    Nativity”*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Morning-of-Christs-Nativity.pdf) (PDF)  
+    Nativity”*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Morning-of-Christs-Nativity.pdf) (PDF)  
       
      Also available in: [  
 
@@ -830,7 +830,7 @@ id="2.4.2"></span> 
     Infant Dying of Cough”**
     Link: The Saylor Foundation: Milton’s [“On the Death of a Fair
     Infant Dying of
-    Cough”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Death-of-a-Fair-Infant-Dying-of-a-Cough.pdf) (PDF)  
+    Cough”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Death-of-a-Fair-Infant-Dying-of-a-Cough.pdf) (PDF)  
       
      Also available in: [  
 
@@ -896,7 +896,7 @@ id="2.4.2"></span> 
 -   **Reading: The Saylor Foundation: Milton’s “On the Morning of
     Christ’s Nativity”**
     Link: The Saylor Foundation: Milton’s [“On the Morning of Christ’s
-    Nativity”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Morning-of-Christs-Nativity.pdf) (PDF)  
+    Nativity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-On-the-Morning-of-Christs-Nativity.pdf) (PDF)  
       
      Also available in: [  
 
@@ -922,7 +922,7 @@ Representations** <span id="2.5.1"></span> 
     “Luke 2:1 - 2:49 - Luke”**
     Link: The Saylor Foundation: *The World English Bible (WEB)*: [“Luke
     2:1 - 2:49 -
-    Luke”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Luke-2-1-2-49.pdf) (PDF)  
+    Luke”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Luke-2-1-2-49.pdf) (PDF)  
       
      Also available in: [  
      HTML](http://www.gutenberg.org/dirs/etext05/web4210h.htm)  
@@ -938,7 +938,7 @@ Representations** <span id="2.5.1"></span> 
 Influence** <span id="2.5.2"></span> 
 -   **Reading: The Saylor Foundation: Virgil’s “Eclogue IV”**
     Link: The Saylor Foundation: Virgil’s [“Eclogue
-    IV”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Virgil-Eclogue-IV.pdf) (PDF)  
+    IV”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Virgil-Eclogue-IV.pdf) (PDF)  
       
      Also available in:[  
      HTML](http://classics.mit.edu/Virgil/eclogue.4.iv.html)  
@@ -954,7 +954,7 @@ Influence** <span id="2.5.2"></span> 
 -   **Reading: The Saylor Foundation: “Puritan Poetics in the Nativity
     Ode”**
     Link: The Saylor Foundation: [“Puritan Poetics in the Nativity
-    Ode”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-2.5.3-Puritan-Poetics-in-the-Nativity-Ode-FINAL.pdf) (PDF)  
+    Ode”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-2.5.3-Puritan-Poetics-in-the-Nativity-Ode-FINAL.pdf) (PDF)  
       
      Instructions: Read this linked page about Milton’s Puritan approach
     to his portrayal of the first Christmas.  
@@ -968,7 +968,7 @@ Influence** <span id="2.5.2"></span> 
 
 -   **Reading: The Saylor Foundation: Milton’s “The Sixth Elegy”**
     Link: The Saylor Foundation: Milton’s [“The Sixth
-    Elegy”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Milton-The-Sixth-Elegy.pdf) (PDF)  
+    Elegy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Milton-The-Sixth-Elegy.pdf) (PDF)  
       
      Also available in: [  
 
@@ -996,7 +996,7 @@ Influence** <span id="2.5.2"></span> 
 **2.5.4 Milton’s View of Redemption** <span id="2.5.4"></span> 
 -   **Reading: The Saylor Foundation: “Milton’s View of Redemption”**
     Link: The Saylor Foundation: [“Milton’s View of
-    Redemption”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-2.5.5-Miltons-View-of-Redemption-FINAL.pdf) (PDF)  
+    Redemption”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-2.5.5-Miltons-View-of-Redemption-FINAL.pdf) (PDF)  
       
      Instructions: Read this linked page about Milton’s notion of
     Salvation, Election, and Free Will.  
@@ -1014,7 +1014,7 @@ Christian Elements** <span id="2.5.5"></span> 
     Intermingling of Classical/Pagan and Christian Elements”**
     Link: The Saylor Foundation: [“Athens and Jerusalem: The
     Intermingling of Classical/Pagan and Christian
-    Elements”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-2.5.6-Athens-and-Jerusalem-FINAL.pdf)
+    Elements”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-2.5.6-Athens-and-Jerusalem-FINAL.pdf)
     (PDF)    
       
      Instructions: Read this linked page about Milton’s use of Classical

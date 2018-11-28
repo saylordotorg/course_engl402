@@ -60,8 +60,8 @@ Upon successful completion of this unit, you will be able to:
     Regained*”**
     Link: The Saylor Foundation: *The Cambridge History of English and
     American Literature, Vol. VII:* Cavalier and Puritan,
-    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf)[*Paradise
-    Regained*](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf) (PDF)  
+    [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf)[*Paradise
+    Regained*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Cavalier-and-Puritan-4.pdf) (PDF)  
       
      Instructions: Read this overview of “*Paradise Regained*” to
     contextualize the work further. They will - in conjunction with the
@@ -109,7 +109,7 @@ Lost*** <span id="4.1.1"></span> 
     Biographical Relationship to Paradise Lost”**
     Link: The Saylor Foundation: [“*Paradise Regained*’s Biographical
     Relationship to *Paradise
-    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-4.1.1-Paradise-Regaineds-Biographical-Relationship-to-Paradise-Lost-FINAL.pdf)
+    Lost*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-4.1.1-Paradise-Regaineds-Biographical-Relationship-to-Paradise-Lost-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this linked page about how Milton originated the
@@ -128,7 +128,7 @@ Lost*** <span id="4.1.2"></span> 
     Relationship to *Paradise Lost*”**
     Link: The Saylor Foundation: [“*Paradise Regained*’s Stylistic
     Relationship to *Paradise
-    Lost*”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-4.1.2-Paradise-Regaineds-Stylistic-Relationship-to-Paradise-Lost-FINAL.pdf)(PDF)  
+    Lost*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-4.1.2-Paradise-Regaineds-Stylistic-Relationship-to-Paradise-Lost-FINAL.pdf)(PDF)  
         
      Instructions: Read the linked page about the differing styles of
     the two epics.  
@@ -145,11 +145,11 @@ id="4.1.3"></span> 
 -   **Reading: The Saylor Foundation: *World English Bible*: “Matthew 4:
     1 - 11”; “Luke 4: 1 - 13”; “The Book of Job”**
     Link: The Saylor Foundation: *World English Bible*: [“Matthew 4: 1 -
-    11”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Matthew-4-1-11.pdf) (PDF);
+    11”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Matthew-4-1-11.pdf) (PDF);
     [“Luke 4: 1 -
-    13”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Luke-4-1-13.pdf) (PDF);
+    13”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Bible-WEB-Luke-4-1-13.pdf) (PDF);
     [“The Book of
-    Job”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL402-Bible-WEB-The-Book-of-Job.pdf) (PDF)  
+    Job”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL402-Bible-WEB-The-Book-of-Job.pdf) (PDF)  
       
      Also available in: [  
      HTML](http://www.gutenberg.org/dirs/etext05/web4010h.htm) (Matthew);
@@ -176,7 +176,7 @@ id="4.2"></span> 
 
 -   **Reading: The Saylor Foundation: “Christ as Human”**
     Link: The Saylor Foundation: [“Christ as
-    Human”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL402-OC-4.2-Christ-as-Human-FINAL.pdf) (PDF)  
+    Human”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL402-OC-4.2-Christ-as-Human-FINAL.pdf) (PDF)  
         
      Instructions: Read the linked page about the ways Milton portrayed
     Jesus as human and as divine.  
